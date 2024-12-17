@@ -1,0 +1,42 @@
+SER 502 Team 11
+Language Name: Spectra
+================
+
+Individual Contribution
+------------------------
+
+Sumit Singh Bhadouria - 1233009533
+- Led the design and implementation of the Tokenizer, including defining regular expressions and lexer rules for tokens.
+- Contributed to tokenizer-parser integration and wrote sections of README.md.
+- Contributed to adding features in the grammar and worked on the Evaluator.
+- Developed sample programs to test grammar functionality.
+- Documented the Tokenizer functionality.
+
+Prerana Madhukar Nale - 1233568468
+- Designed and implemented the Parser, creating parse tree logic and defining rules for program structure and expressions.
+- Contributed to grammar documentation in the PDF.
+- Implemented the runtime environment and contributed to grammar updates.
+- Developed sample programs to test grammar functionality.
+- Updated grammar documentation.
+
+Ragland Pakiyaraj Rajasingh - 1232696610
+- Assisted in Parser implementation, focusing on control flow (if-else, loops).
+- Helped refine EBNF grammar, parse tree structure, and contributed to documentation.
+- Completed parser optimization and worked on grammar and the Evaluator.
+- Created control flow sample programs.
+- Documented the runtime execution process.
+
+Dhaarani Ganesh Thangam - 1234397998
+- Contributed to language design and developed core EBNF grammar.
+- Implemented output generation for the parser and assisted in integrating tokenizer and parser components.
+- Added features and updated the grammar and the Evaluator.
+- Developed sample programs to test grammar functionality.
+- Updated README.md with project details.
+
+Collaborative Efforts
+---------------------
+- Jointly developed the initial language design and EBNF grammar.
+- Held regular meetings to align tokenizer and parser development.
+- Debugged and tested the system collaboratively.
+- Prepared documentation, including the PDF grammar document and contribution.txt.
+- Reviewed and finalized all documentation.
